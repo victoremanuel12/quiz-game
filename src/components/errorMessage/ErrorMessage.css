@@ -1,0 +1,10 @@
+.error{
+    width: 100%;
+    padding: 10px;
+    border: 5px;
+    background-color: orangered;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    border-radius: 10px;
+}

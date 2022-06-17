@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scrollbar-width: thin;
+
+}
+*::-webkit-scrollbar{
+  width: 8px;
+  background-color: gray;
+}
+a{
+  color: inherit;
+  text-decoration: inherit;
+}
+.App {
+
+  min-height: 100vh;
+  padding:5px ;
+
+}
+body{
+  background-image: url(../public/img/ques1.png);
+  border: 8px solid #39445a93;
+
+
+}

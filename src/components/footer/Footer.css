@@ -1,0 +1,22 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+.footer strong{
+    display: inline-block;
+    font-weight: bold;
+    color: #000;
+}
+.footer div{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+}
+.footer div a{
+    margin-right: 10px;
+}

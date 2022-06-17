@@ -1,0 +1,12 @@
+.result{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 80vh;
+}
+.result_title{
+    margin-bottom: 30px;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
