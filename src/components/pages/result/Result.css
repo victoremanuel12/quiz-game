@@ -10,3 +10,9 @@
     font-size: 50px;
     font-family: 'Montserrat', sans-serif;
 }
+@media  screen and (max-width:667px) {
+    .result_title{
+        font-size: 35px;
+    }
+      
+}
